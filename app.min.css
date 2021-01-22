@@ -8822,10 +8822,10 @@ button.close {
 }
 @font-face {
     font-family: "Frutiger LT Std 55 Roman";
-    src: url(/src/fonts/FrutigerLTStd-Roman.eot);
-    src: url(/src/fonts/FrutigerLTStd-Roman.eot?#iefix) format("embedded-opentype"),
-        url(/src/fonts/FrutigerLTStd-Roman.woff2) format("woff2"), url(/src/fonts/FrutigerLTStd-Roman.woff) format("woff"),
-        url(/src/fonts/FrutigerLTStd-Roman.svg#FrutigerLTStd-Roman) format("svg");
+    src: url(./src/fonts/FrutigerLTStd-Roman.eot);
+    src: url(./src/fonts/FrutigerLTStd-Roman.eot?#iefix) format("embedded-opentype"),
+        url(./src/fonts/FrutigerLTStd-Roman.woff2) format("woff2"), url(./src/fonts/FrutigerLTStd-Roman.woff) format("woff"),
+        url(./src/fonts/FrutigerLTStd-Roman.svg#FrutigerLTStd-Roman) format("svg");
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
@@ -8833,10 +8833,10 @@ button.close {
 }
 @font-face {
     font-family: "Frutiger LT Std 55 Black";
-    src: url(/src/fonts/FrutigerLTStd-Black.eot);
-    src: url(/src/fonts/FrutigerLTStd-Black.eot?#iefix) format("embedded-opentype"),
-        url(/src/fonts/FrutigerLTStd-Black.otf) format("opentype"),
-        url(/src/fonts/FrutigerLTStd-Black.ttf) format("truetype"), url(/src/fonts/FrutigerLTStd-Black.woff) format("woff");
+    src: url(./src/fonts/FrutigerLTStd-Black.eot);
+    src: url(./src/fonts/FrutigerLTStd-Black.eot?#iefix) format("embedded-opentype"),
+        url(./src/fonts/FrutigerLTStd-Black.otf) format("opentype"),
+        url(./src/fonts/FrutigerLTStd-Black.ttf) format("truetype"), url(./src/fonts/FrutigerLTStd-Black.woff) format("woff");
     font-weight: 900;
     font-style: normal;
 }
