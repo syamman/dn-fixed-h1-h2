@@ -11754,7 +11754,7 @@ hr {
 .recipe-inner-interest .desc .desc-title {
     position: relative;
 }
-.recipe-inner-interest .desc h1 {
+.recipe-inner-interest .desc h1,.recipe-inner-interest .desc h2 {
     font-size: 25px;
     color: #fff;
     font-weight: 600;
@@ -11767,7 +11767,7 @@ hr {
     max-width: 1200px;
 }
 @media only screen and (max-width: 990px) {
-    .recipe-inner-interest .desc h1 {
+    .recipe-inner-interest .desc h1,.recipe-inner-interest .desc h2 {
         font-size: 18px;
         top: -5px;
     }
