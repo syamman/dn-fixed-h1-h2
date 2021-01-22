@@ -9885,14 +9885,14 @@ hr {
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
-.recipes h1 {
+.recipes h1, .recipes h2 {
     text-align: left;
     font-size: 18px;
     font-weight: 800;
     color: #999;
 }
 @media only screen and (max-width: 990px) {
-    .recipes h1 {
+    .recipes h1, .recipes h2 {
         padding-left: 0;
     }
 }
@@ -10017,7 +10017,7 @@ hr {
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
-.happenings h1 {
+.happenings h1, .happenings h2 {
     font-weight: 800;
     color: #999;
 }
